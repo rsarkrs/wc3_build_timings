@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "w3c_db",
+            "database": "C:\\Users\\abou6\\OneDrive\\Documents\\workspace\\stats-visual\\data\\w3c-cache.sqlite"
+        }
+    ]
+}
